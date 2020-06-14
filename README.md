@@ -1,4 +1,4 @@
-+ [polish version - PL](https://www.apifunc.com/README_PL.html)
++ [polish version - PL](https://docs.faas.ovh/README_PL.html)
 
 # [faas.ovh](https://www.faas.ovh)
 

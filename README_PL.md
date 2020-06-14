@@ -1,6 +1,6 @@
-+ [Wersja angielska - EN](https://www.faas.ovh/)
++ [Wersja angielska - EN](https://docs.faas.ovh/)
 
-# [faas.ovh](https://www.faas.ovh)
+# [faas.ovh](https://docs.faas.ovh)
 
 ![apifunc-logo.png](https://logo.faas.ovh/1/cover.png)
 
