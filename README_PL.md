@@ -17,7 +17,6 @@ Celem tego rozwiązania jest przygotowanie srodowiska do wykonania kodu jednej p
 + ...
 
 ## Kod
-
 Funkcja powinna zawierać nazwe, parametry w formacie tekstowym, wynik jest przetwarzany do postaci JSON
 
 
