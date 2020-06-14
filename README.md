@@ -1,6 +1,6 @@
 + [polish version - PL](https://docs.faas.ovh/README_PL.html)
 
-# [faas.ovh](https://www.faas.ovh)
+# [faas.ovh](https://docs.faas.ovh)
 
 ![apifunc-logo.png](https://logo.faas.ovh/1/cover.png)
 
