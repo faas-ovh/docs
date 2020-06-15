@@ -56,10 +56,10 @@ Przełączanie kontekstu odbywa się w pętli zdarzeń, dzięki czemu można two
 Kod mikrousïugi wykorzystujÈcy standard WSGI i greenlety może obsługiwać wiele żądań jednocześnie i przełączać się pomiędzy nimi.  
 Jednak przełączanie pomiędzy greenlet-ami odbywa się jawnie, a to powoduje, że kod szybko się komplikuje a przez to staje nieczytelny.
 
-## [Biblioteka Gevent](http://www.gevent.org)
+## [Biblioteka Gevent](https://www.gevent.org)
 Gevent jest oparty o Greenlet i oferuje między innymi automatyczne przełączanie kodu między greenletami.
 
-## [Asynchroniczna platforma Tornado](http://www.tornadoweb.org)
+## [Asynchroniczna platforma Tornado](https://www.tornadoweb.org)
 
 Platforma Twisted jest wyjątkowo spójna i wydajna, jednak:
 + Każdy punkt końcowy mikrousługi trzeba implementowaÊ za pomocą klasy pochodnej od Resource i kodować wszystkie jej metody ( trzeba napisać kod interfejsu API )
