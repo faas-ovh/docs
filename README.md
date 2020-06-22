@@ -15,6 +15,12 @@ Skrypty powłoki bash zawierają też funkcje testujące i sprawdzające pozwala
 APIfoundation jest realizowane na lokalne potrzeby w celu szybkiego dostarczenia pierwszej wersji prototypu na lokalnych, fizycznych serwerach/urządzeniach.
 Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
 
+## FaaS and PaaS, platform-as-a-service
+
+FaaS infrastructure is usually metered on-demand, primarily through an event-driven execution model.
+PaaS require some server processes to be running constantly in the background, FaaS not.
+[paas.info](https://paas.info)
+ 
 
 ## Benefits of FaaS
 
