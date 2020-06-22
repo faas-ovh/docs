@@ -17,7 +17,7 @@ Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT
 
 
 ## Korzyśći z użycia FaaS.ovh
-Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
+Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera i środowiska do uruchomienia pierwszej wersji apliakcji z dokumentacją API.
 
 Pierwszy szkic aplikacji jest dostępny online: https://www.faas.ovh/
 
