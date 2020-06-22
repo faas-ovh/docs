@@ -16,6 +16,15 @@ APIfoundation jest realizowane na lokalne potrzeby w celu szybkiego dostarczenia
 Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
 
 
+## Benefits of FaaS
+
++ Increased developer productivity and faster development time
++ Not responsible for server management
++ Easy to scale and horizontal scaling is managed by the platform
++ Only pay for or consume resources when necessary
++ Functions can be written in almost any programming language
+
+
 ## Korzyśći z użycia FaaS.ovh
 Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera i środowiska do uruchomienia pierwszej wersji aplikacji z dokumentacją API.
 
