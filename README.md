@@ -7,7 +7,8 @@ https://github.com/faas-ovh
 ## APIfoundation + APIfunc = FaaS.ovh
 
 Apifoundation z zasady jest otwarte i lokalne.
-Ułatiwa, przyśpiesza proces dostarczania aplikacji, od przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
+
+Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
  
 Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
 Przygotowanie środowiska polega na uruchomieniu skryptów w natywnym środowisku systemu.
