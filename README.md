@@ -4,7 +4,7 @@
 
 https://github.com/faas-ovh
 
-## APIfoundation and FaaS.ovh
+## APIfoundation + APIfunc = FaaS.ovh
 
 Apifoundation z zasady jest otwarte i lokalne.
 Ułatiwa, przyśpiesza proces dostarczania aplikacji, od przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
