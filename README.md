@@ -10,9 +10,8 @@ Apifoundation z zasady jest otwarte i lokalne.
 Ułatiwa, przyśpiesza proces dostarczania aplikacji, od przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
  
 Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
-Z założenia też działa w natywnym środowisku systemu generując środowisko tak jak robi to człowiek, poprzez skrypty powłoki bash ale z uwzględnieniem testowania i interakcji.
-
-Chmura Azure/Google ma dostarczyć środowisko produkcyjne na cały glob i ma być skalowalne z dynamiczcnym środowiskiem.
+Przygotowanie środowiska polega na uruchomieniu skryptów w natywnym środowisku systemu.
+Skrypty powłoki bash zawierają też funkcje testujące i sprawdzające pozwalając na interakcję.
 
 APIfoundation jest realizowane na lokalne potrzeby w celu szybkiego dostarczenia pierwszej wersji prototypu na lokalnych, fizycznych serwerach/urządzeniach.
 
