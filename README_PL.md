@@ -36,7 +36,6 @@ Na podstawie analizy funkcji w okienku edytora zostaje wygenerowana dokumentacja
 
 
 
-
 # Informacje dodatkowe o bibliotekach
  
 
