@@ -1,4 +1,5 @@
 + [Wersja angielska - EN](https://docs.faas.ovh/)
++ [polish version - PL](https://docs.faas.ovh/README_PL.html)
 
 # [faas.ovh](https://docs.faas.ovh)
 

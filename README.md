@@ -1,10 +1,32 @@
-+ [polish version - PL](https://docs.faas.ovh/README_PL.html)
-
 # [faas.ovh](https://docs.faas.ovh)
 
 ![apifunc-logo.png](https://logo.faas.ovh/1/cover.png)
 
 https://github.com/faas-ovh
+
+## APIfoundation and FaaS.ovh
+
+Apifoundation z zasady jest otwarte i lokalne.
+Ułatiwa, przyśpiesza proces dostarczania aplikacji, od przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
+ 
+Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
+Z założenia też działa w natywnym środowisku systemu generując środowisko tak jak robi to człowiek, poprzez skrypty powłoki bash ale z uwzględnieniem testowania i interakcji.
+
+Chmura Azure/Google ma dostarczyć środowisko produkcyjne na cały glob i ma być skalowalne z dynamiczcnym środowiskiem.
+
+APIfoundation jest realizowane na lokalne potrzeby w celu szybkiego dostarczenia pierwszej wersji prototypu na lokalnych, fizycznych serwerach/urządzeniach.
+
+Pierwszy szkic aplikacji jest dostępny online: https://www.faas.ovh/
+
+## Status
+
+Twrają prace dostarczenie wersji generującej z pojedynczej funkcji dokumentację API w formacie OpenAPI + działająca usługa na określonym serwerze w określonym środowisku. 
+
+Gdy generowanie API z funkcji będzie gotowe.
+Kolejnym modułem będzie generowanie frontendu dla potrzeb tego API, czyli statycznej aplikacji np formularza, tabelki.
+
+Te wszystkie elementy wymagają jeszcze testowania, dlatego wersja finalna będzie dostępna za kilka miesięcy. 
+
 
 ## Co to jest FaaS
 
@@ -35,6 +57,9 @@ Na podstawie analizy funkcji w okienku edytora zostaje wygenerowana dokumentacja
 ![scren.png](img/1.png)
 
 
+# Zasada działania aplikacji
+
+Z założenia jest to lokalne 
 
 # Informacje dodatkowe o bibliotekach
  
