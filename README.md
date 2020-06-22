@@ -20,7 +20,7 @@ Pierwszy szkic aplikacji jest dostępny online: https://www.faas.ovh/
 
 ## Status
 
-Twrają prace dostarczenie wersji generującej z pojedynczej funkcji dokumentację API w formacie OpenAPI + działająca usługa na określonym serwerze w określonym środowisku. 
+Trwają prace nad wersją generującą z pojedynczej funkcji dokumentację API w formacie OpenAPI. 
 
 Gdy generowanie API z funkcji będzie gotowe.
 Kolejnym modułem będzie generowanie frontendu dla potrzeb tego API, czyli statycznej aplikacji np formularza, tabelki.
