@@ -24,6 +24,14 @@ Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT
 + Only pay for or consume resources when necessary
 + Functions can be written in almost any programming language
 
+## Benefits of serverless adn FaaS
+
+The term "serverless" is also being used to represent managed services 
+(such as databases, messaging, and authentication) 
+where a developer/administrator is not required to operate the system since it's being managed by a cloud provider or third-party company.  
+
+The combination of FaaS and common back-end services connected primarily through an event-driven architecture is what provides the best benefits for serverless developers.
+
 
 ## Korzyśći z użycia FaaS.ovh
 Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera i środowiska do uruchomienia pierwszej wersji aplikacji z dokumentacją API.
