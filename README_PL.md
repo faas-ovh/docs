@@ -4,9 +4,11 @@
 
 ![apifunc-logo.png](https://logo.faas.ovh/1/cover.png)
 
-https://github.com/apifunc
+https://github.com/faas-ovh
 
+## Co to jest FaaS
 
+[Function as a service - Wikipedia](https://en.wikipedia.org/wiki/Function_as_a_service)
 
 ## Czym jest faas.ovh?
 
@@ -16,13 +18,6 @@ Celem tego rozwiązania jest przygotowanie srodowiska do wykonania kodu jednej p
 + php
 + ...
 
-## Kod
-Funkcja powinna zawierać nazwe, parametry w formacie tekstowym, wynik jest przetwarzany do postaci JSON
-
-
-## Usługa FaaS
-
-[Function as a service - Wikipedia](https://en.wikipedia.org/wiki/Function_as_a_service)
 
 Bazą jest usługa Serwera, obecnie może to być synchroniczna WSGI, asynchroniczne platformy Twisted i Tornado, lub po prostu NodeJS.
 
@@ -30,6 +25,20 @@ Bazą jest usługa Serwera, obecnie może to być synchroniczna WSGI, asynchroni
 + Twisted, Tornado
 + NodeJS
 
+## Kod
+Funkcja powinna zawierać nazwe, parametry w formacie tekstowym, wynik jest przetwarzany do postaci JSON
+
+## Code to API by OpenApi docs
+Na podstawie analizy funkcji w okienku edytora zostaje wygenerowana dokumentacja
+  
+
+![scren.png](img/1.png)
+
+
+
+
+# Informacje dodatkowe o bibliotekach
+ 
 
 ## Serwer WSGI
 + [Web Server Gateway Interface - Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
