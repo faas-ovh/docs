@@ -28,7 +28,7 @@ Bazą jest usługa Serwera, obecnie może to być synchroniczna WSGI, asynchroni
 ## Kod
 Funkcja powinna zawierać nazwe, parametry w formacie tekstowym, wynik jest przetwarzany do postaci JSON
 
-## Code to API by OpenApi docs
+## Code to API conversion based on generated OpenApi documentation
 Na podstawie analizy funkcji w okienku edytora zostaje wygenerowana dokumentacja
   
 
