@@ -6,15 +6,18 @@ https://github.com/faas-ovh
 
 ## APIfoundation + APIfunc = FaaS.ovh
 
+#### Apifoundation
+Apifoundation to cały ekosystem służący dostarczaniu oprgramowania.
 Apifoundation z zasady jest otwarte i lokalne.
-
-Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
- 
-Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
+Podstawowe cele to: przygotowanie serwera do uruchomienia kodu apikacji poprzez przygotowanie środowiska uruchomieniowego. 
 Przygotowanie środowiska polega na uruchomieniu skryptów w natywnym środowisku systemu.
 Skrypty powłoki bash zawierają też funkcje testujące i sprawdzające pozwalając na interakcję.
-
 APIfoundation jest realizowane na lokalne potrzeby w celu szybkiego dostarczenia pierwszej wersji prototypu na lokalnych, fizycznych serwerach/urządzeniach.
+Pozwala na deployment w dowolnym urządzeniu z numerem IP po SSH, czyli też IOT jak RaspberryPI.
+
+
+## Korzyśći z użycia FaaS.ovh
+Przyśpiesza proces dostarczania aplikacji, od momentu przygotowania serwera, środowiska do uruchomienia pierwszej wersji API.
 
 Pierwszy szkic aplikacji jest dostępny online: https://www.faas.ovh/
 
